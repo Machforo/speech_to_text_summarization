@@ -41,12 +41,7 @@ This project aims to develop a real-time speech-to-text conversion system levera
 - **Model Fine-Tuning:** Incorporation of cutting-edge techniques and optimization of model architecture.
 - **Performance Enhancement:** Improved accuracy, processing speed, and adaptability across diverse datasets and languages.
 
-## Project Structure
 
-- `data/`: Contains sample audio files and datasets used for training and testing.
-- `scripts/`: Implementation scripts for each API and custom model.
-- `notebooks/`: Jupyter notebooks for exploratory data analysis and model evaluation.
-- `results/`: Output files and performance metrics.
 
 ## Getting Started
 
